@@ -8,7 +8,7 @@
 ![Table 2](Table_2.png)
 
 
-**Table 3. Power comparison of MOD and MMD for a modified version of Experiment III...**
+**Table 3. Power comparison of MOD and MMD for a modified version of Experiment III, in which only $5\%$ of the observations in $Y$ are drawn from a shifted alternative distribution.**
 
 ![Table 3](Table_3.png)
 
