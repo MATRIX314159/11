@@ -1,14 +1,14 @@
-**Table 1. Power Comparison under two covariance matrices.**
+**Table C.1. Power Comparison under two covariance matrices.**
 
 ![Table 1](Table_1.png)
 
 
-**Table 2. Power comparison between MOD and MMD under different bandwidths.**
+**Table C.2. Power comparison between MOD and MMD under different bandwidths.**
 
 ![Table 2](Table_2.png)
 
 
-**Table 3. Power comparison of MOD and MMD for a modified version of Experiment III, in which only $5\%$ of the observations in $Y$ are drawn from a shifted alternative distribution.**
+**Table C.3. Power comparison of MOD and MMD for a modified version of Experiment III, in which only $5\%$ of the observations in $Y$ are drawn from a shifted alternative distribution.**
 
 ![Table 3](Table_3.png)
 
